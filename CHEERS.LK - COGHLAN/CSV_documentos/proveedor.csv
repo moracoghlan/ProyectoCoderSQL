@@ -1,0 +1,11 @@
+proveedor_id,nombre,email,telefono,direccion
+1,"Textiles Sur",contacto@textilessur.com,1111111111,"Av. Rivadavia 123"
+2,"Algodones SA",ventas@algodonesa.com,2222222222,"Calle San Martín 456"
+3,InduWear,info@induwear.com,3333333333,"Av. Belgrano 789"
+4,"Fabrica Norte",norte@fabrica.com,4444444444,"Ruta 8 km 34"
+5,TelaPlus,soporte@telaplus.com,5555555555,"Av. Mitre 900"
+6,EcoTextil,eco@textil.com,6666666666,"Calle Verde 123"
+7,ModaBase,contacto@modabase.com,7777777777,"Diagonal 80"
+8,UrbanTex,ventas@urbantex.com,8888888888,"Av. Corrientes 1500"
+9,FibraPro,info@fibrapro.com,9999999999,"Calle Industrial 200"
+10,TexAndes,andes@tex.com,1010101010,"Av. Los Andes 555"

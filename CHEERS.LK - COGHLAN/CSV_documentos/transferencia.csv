@@ -1,0 +1,21 @@
+transferencia_id,pedido_id,monto,banco_origen,cuenta_origen,banco_destino,cuenta_destino,fecha_hora,estado_pago,cbu
+1,1,50000,"Banco Nación",123,"Banco Provincia",999,"2025-01-01 10:00:00",Aprobado,000111
+2,2,27000,Santander,124,BBVA,998,"2025-01-02 11:00:00",Aprobado,000112
+3,3,90000,Galicia,125,Macro,997,"2025-01-03 12:00:00",Aprobado,000113
+4,4,24000,BBVA,126,Nación,996,"2025-01-04 13:00:00",Pendiente,000114
+5,5,52000,Macro,127,Galicia,995,"2025-01-05 14:00:00",Aprobado,000115
+6,6,28000,Nación,128,Provincia,994,"2025-01-06 15:00:00",Aprobado,000116
+7,7,102000,Santander,129,BBVA,993,"2025-01-07 16:00:00",Aprobado,000117
+8,8,62000,Galicia,130,Macro,992,"2025-01-08 17:00:00",Pendiente,000118
+9,9,29000,BBVA,131,Nación,991,"2025-01-09 18:00:00",Aprobado,000119
+10,10,165000,Macro,132,Galicia,990,"2025-01-10 19:00:00",Aprobado,000120
+11,11,52000,Nacion,200,Provincia,300,"2025-02-01 10:00:00",Aprobado,111111
+12,12,28000,Santander,201,BBVA,301,"2025-02-02 11:00:00",Aprobado,111112
+13,13,90000,Galicia,202,Macro,302,"2025-02-03 12:00:00",Pendiente,111113
+14,14,54000,BBVA,203,Nacion,303,"2025-02-04 13:00:00",Aprobado,111114
+15,15,27000,Macro,204,Galicia,304,"2025-02-05 14:00:00",Pendiente,111115
+16,16,112000,Nacion,205,Provincia,305,"2025-02-06 15:00:00",Aprobado,111116
+17,17,58000,Santander,206,BBVA,306,"2025-02-07 16:00:00",Aprobado,111117
+18,18,87000,Galicia,207,Macro,307,"2025-02-08 17:00:00",Aprobado,111118
+19,19,29000,BBVA,208,Nacion,308,"2025-02-09 18:00:00",Pendiente,111119
+20,20,62000,Macro,209,Galicia,309,"2025-02-10 19:00:00",Aprobado,111120

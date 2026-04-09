@@ -1,0 +1,11 @@
+empleado_id,nombre,email,telefono,rol
+1,"Carlos Medina",carlos@empresa.com,1111,Estampador
+2,"Laura Benítez",laura@empresa.com,2222,Estampadora
+3,"Martín Paz",martin@empresa.com,3333,Supervisor
+4,"Lucía Romero",lucia@empresa.com,4444,Diseñadora
+5,"Diego Fernández",diego@empresa.com,5555,Operario
+6,"Florencia Núñez",flor@empresa.com,6666,Operaria
+7,"Javier Morales",javier@empresa.com,7777,"Control Calidad"
+8,"Paula Suárez",paula@empresa.com,8888,Estampadora
+9,"Andrés Vega",andres@empresa.com,9999,Supervisor
+10,"Micaela Soto",mica@empresa.com,1010,Diseñadora

@@ -1,0 +1,11 @@
+delivery_id,nombre_empresa,telefono,email,zonas_cubiertas
+1,"Correo Express",4000,correo@exp.com,CABA
+2,"Envios Ya",4001,envios@ya.com,GBA
+3,FastShip,4002,fast@ship.com,"CABA y GBA"
+4,MotoFlash,4003,moto@flash.com,CABA
+5,LogiSur,4004,logi@sur.com,"Zona Sur"
+6,AndesPack,4005,andes@pack.com,Interior
+7,QuickBox,4006,quick@box.com,CABA
+8,ShipNow,4007,ship@now.com,"GBA Norte"
+9,Urbano,4008,urbano@mail.com,CABA
+10,CargoPlus,4009,cargo@plus.com,Nacional

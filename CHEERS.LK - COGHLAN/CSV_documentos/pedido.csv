@@ -1,0 +1,22 @@
+pedido_id,cliente_id,buzo_id,empleado_id,delivery_id,fecha_pedido,cantidad,estado
+1,1,1,1,1,2025-01-01,2,"En proceso"
+2,2,2,2,2,2025-01-02,1,Enviado
+3,3,3,3,3,2025-01-03,3,Entregado
+4,4,4,4,4,2025-01-04,1,Pendiente
+5,5,5,5,5,2025-01-05,2,"En proceso"
+6,6,6,6,6,2025-01-06,1,Entregado
+7,7,7,7,7,2025-01-07,4,Enviado
+8,8,8,8,8,2025-01-08,2,"En proceso"
+9,9,9,9,9,2025-01-09,1,Pendiente
+10,10,10,10,10,2025-01-10,5,Entregado
+11,1,1,1,1,2025-02-01,2,"En proceso"
+12,1,1,1,1,2025-02-01,2,Entregado
+13,2,2,2,2,2025-02-02,1,Entregado
+14,3,11,3,3,2025-02-03,3,Enviado
+15,4,12,4,4,2025-02-04,2,Entregado
+16,5,13,5,5,2025-02-05,1,Pendiente
+17,6,14,6,6,2025-02-06,4,Entregado
+18,7,15,7,7,2025-02-07,2,"En proceso"
+19,8,16,8,8,2025-02-08,3,Entregado
+20,9,17,9,9,2025-02-09,1,Enviado
+21,10,18,10,10,2025-02-10,2,Entregado

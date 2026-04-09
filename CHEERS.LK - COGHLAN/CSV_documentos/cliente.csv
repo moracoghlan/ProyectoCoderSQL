@@ -1,0 +1,11 @@
+cliente_id,nombre,email,telefono,direccion_envio
+1,"Juan Pérez",juan@mail.com,111111,"Av. Siempre Viva 123"
+2,"Ana Gómez",ana@mail.com,222222,"Calle Falsa 456"
+3,"Lucas Díaz",lucas@mail.com,333333,"Av. Libertador 789"
+4,"María López",maria@mail.com,444444,"Calle Sol 321"
+5,"Sofía Torres",sofia@mail.com,555555,"Av. Luna 654"
+6,"Pedro Ruiz",pedro@mail.com,666666,"Calle Norte 12"
+7,"Valentina Rojas",vale@mail.com,777777,"Av. Sur 98"
+8,"Tomás Silva",tomas@mail.com,888888,"Diagonal 74"
+9,"Camila Ortega",camila@mail.com,999999,"Av. Central 101"
+10,"Nicolás Castro",nico@mail.com,101010,"Calle Este 202"

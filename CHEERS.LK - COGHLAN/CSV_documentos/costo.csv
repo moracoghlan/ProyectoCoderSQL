@@ -1,0 +1,9 @@
+id_modelo,nombre_modelo,tela,tinta,mano_obra,proveedor,total_costo
+1,"Buzo Classic",2500.00,500.00,3000.00,1,6000.00
+2,"Buzo Oversize",2800.00,550.00,3200.00,2,6550.00
+3,"Buzo Hoodie Logo",3000.00,600.00,3500.00,1,7100.00
+4,"Buzo Minimal",2200.00,300.00,2800.00,3,5300.00
+5,"Buzo Vintage",2600.00,450.00,3100.00,2,6150.00
+6,"Buzo Street",2900.00,700.00,3400.00,1,7000.00
+7,"Buzo Urban",2700.00,500.00,3300.00,2,6500.00
+8,"Buzo Retro",2400.00,400.00,2900.00,3,5700.00
